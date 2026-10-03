@@ -94,7 +94,11 @@ Features include:
 
 \---
 
+## 🖥️ Project Preview
 
+<p align="center">
+  <img src="docs/movieflix.png" alt="MovieFlix AI Project Screenshot" width="100%">
+</p>
 
 \### 🤖 AI Movie Rating Prediction
 
